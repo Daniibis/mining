@@ -11,5 +11,5 @@ $data_boost = '{"boost_ratio":2}';
 /*Change According to Your Auth Data*/
 /*Ubah Sesuai Data Auth Kalian*/
 
-$auth[] = "gAAAAABek3gaWZzzzhdub_s4IfS8CHgbIRH9YM1ynq9eqimYAtDOymxRaBpIfKjnMZe-tNuQOYZkznzO3G3guv9tQbuF6nAwcKHKIRMnbIU6wl5i5HuWoUw=";
-$auth[] = "gAAAAABek3gaWZzzzhdub_s4IfS8CHgbIRH9YM1ynq9eqimYAtDOymxRaBpIfKjnMZe-tNuQOYZkznzO3G3guv9tQbuF6nAwcKHKIRMnbIU6wl5i5HuWoUw=";
+$auth[] = "gAAAAABe4cuEx72pq9W-JGeTokFw0JPTUer8mKjdrXaDVVw6eSTMhDtJJmNHQa65ST9Tz9-50B6Gr_MA27VTT4mWx_FcZgBGyQ==";
+$auth[] = "gAAAAABe4cuEx72pq9W-JGeTokFw0JPTUer8mKjdrXaDVVw6eSTMhDtJJmNHQa65ST9Tz9-50B6Gr_MA27VTT4mWx_FcZgBGyQ==";
